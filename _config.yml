@@ -11,7 +11,7 @@ kramdown:
 #theme: minimal-mistakes-jekyll
 title: Erik Hemberg's Website
 description: Website for Erik Hemberg
-show_downloads: true
+show_downloads: false
 google_analytics:
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
